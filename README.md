@@ -2,6 +2,12 @@
 
 ## crawl_capture.js
 site crawling with capture using CasperJS.  
-```javascript
-casperjs crawl_capture.js
+```sh
+# casperjs crawl_capture.js
+```
+
+## crawl_dynamic_html.js
+crawl a dynamic html site using js.  
+```sh
+# casperjs crawl_dynamic_html.js
 ```
