@@ -1,4 +1,4 @@
-# crawler
+# web crawler, web scraper
 
 ## crawl_capture.js
 site crawling with capture using CasperJS.  
