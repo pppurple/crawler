@@ -1,0 +1,17 @@
+{
+  "name": "dlTwitterUserImages",
+  "version": "0.0.1",
+  "description": "Download all Twitter images from a User",
+  "homepage": "",
+  "author": {
+    "name": "pppurple"
+  },
+  "dependencies": {
+    "long": "3.0.3",
+    "request": "2.69.0",
+    "twit": "2.2.2"
+  },
+  "keywords": [
+    "twitter", "image", "download"
+  ]
+}
